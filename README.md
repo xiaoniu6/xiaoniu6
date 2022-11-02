@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wang Chao。
 - 👀 I’m interested in AI, Big Data, Cloud Computing, etc。
-- 🌱 I am working in CHINA ACADEMY OF RAILWAY SCIENCES CORPORATION LIMITED.
+- 🌱 I am working in China Academy of Railway Sciences.
 - 💞️ I’m looking to collaborate on CV.
 
 <!---
